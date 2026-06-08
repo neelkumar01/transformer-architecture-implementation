@@ -1,2 +1,2 @@
-# transformer-from-scratch
-Transformers architecture implemented from scratch in pytorch with first principles for learning, experimentation and research
+### Transformers
+This repository implements the Transformer architecture introduced in the paper *"Attention Is All You Need"*
